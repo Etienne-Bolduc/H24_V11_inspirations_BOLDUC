@@ -14,6 +14,6 @@ Voici le genre d'arme que les Autochtones utilisaient.
 
 ![image](media/Arc_flèche.png)
 
-Voici comment les Aitochtone se déplaçaient en hiver
+Voici comment les Aitochtone se déplaçaient en hiver.
 
 ![image](media/traîneau_hiver.png)
