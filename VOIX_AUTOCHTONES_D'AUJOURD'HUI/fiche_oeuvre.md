@@ -4,4 +4,4 @@ Voivi le nom de l'exposition
 
 Le dispositif multimédia utilisé est un écran avec deux téléphones aui permettent d'entendre ce aui est dit à l'écran
 
-![image](media/dispositif_multimédia.png)
+![image](media/dispositif_multimedia.png)
