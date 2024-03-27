@@ -9,3 +9,7 @@ Le dispositif multimédia principalement utilisé dans l'exposition est un écra
 Voici le style de manteau que les Autochtones portaient à l'époque
 
 ![image](media/manteau_peau.png)
+
+
+
+![image](media/Arc_flèche.png)
