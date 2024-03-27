@@ -10,6 +10,6 @@ Voici le style de manteau que les Autochtones portaient à l'époque
 
 ![image](media/manteau_peau.png)
 
-
+Voici le genre d'arme que les Autochtones utilisaient
 
 ![image](media/Arc_flèche.png)
