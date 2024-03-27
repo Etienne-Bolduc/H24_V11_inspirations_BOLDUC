@@ -8,3 +8,4 @@ Le dispositif multimédia principalement utilisé dans l'exposition est un écra
 
 
 
+![image](media/manteau_peau.png)
