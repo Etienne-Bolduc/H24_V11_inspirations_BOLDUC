@@ -16,3 +16,4 @@ Voici le genre d'arme que les Autochtones utilisaient
 
 
 
+![image](traîneau_hiver.png)
