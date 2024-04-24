@@ -1,1 +1,1 @@
-Cette exposition montre comment les Autochtones vivaient à l'époque, vant que les fFrançais arrivent et colonisent les terres de l'Amérique.
+Cette exposition montre comment les Autochtones vivaient à l'époque, vant que les fFrançais arrivent et colonisent les terres de l'Amérique. ça montrait également des parties de leur vie et tout le matériel qu'ils utilisaient pour chasser, se défentre, se vêtir, se déplacer; etc.
