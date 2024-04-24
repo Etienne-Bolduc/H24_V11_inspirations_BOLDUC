@@ -1,1 +1,1 @@
-Ce dossier contient toutes les photos prises 
+Ce dossier contient toutes les photos prises pour ce projet
