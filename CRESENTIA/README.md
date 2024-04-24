@@ -1,1 +1,1 @@
-
+Dans cette exposotion on regardait les les oeuvres que les étudiants de troisème ont fait. L'une d'entre elles était un ensemble de planètes que quandtu plaçais les planète à différents endroits de la table, il se passait un truc différent. Une autre des oeuvres, était un jeu de mouvements ùoles mouvement étaient captés par une Kinnecn une console qui, jusqu'à une certaine distance, peut capter les mouvements des personnes qui sont dans le champ de la caméra de la Kinnec.
