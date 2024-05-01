@@ -1,3 +1,7 @@
-Voici un premier écran tactile 
+Voici un premier écran tactile.
 
 ![image](media/ecran_tactile_1.jpg)
+
+Voici un deuxième écran tactile.
+
+![image](media/ecran_tactile_2.jpg)
