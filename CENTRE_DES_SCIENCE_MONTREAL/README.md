@@ -1,1 +1,1 @@
-
+Cette oeuvre est trois écrans tactiles différents qui montrent la même chose. Les écrans montrent ce qu'on appelle un arbre ADN génétique. Chaque écran tactile est relié a un pc et un seul pc gère un écran tactile. 
