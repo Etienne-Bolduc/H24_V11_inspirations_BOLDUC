@@ -10,6 +10,6 @@ Voici un troisième écran tactile.
 
 ![image](media/ecran_tactile_3.jpg)
 
-Voici la tour pc qui controle un des écrans
+Voici une tour pc qui controle un des écrans
 
 ![image](media/pc_ecran_tactile.jpg)
